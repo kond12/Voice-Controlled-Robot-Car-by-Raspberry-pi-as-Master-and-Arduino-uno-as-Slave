@@ -1,0 +1,38 @@
+{
+    "objects": [
+        
+        {
+            
+          "tag": "wiki",
+          "patterns": ["tell","know","is","was","did"],
+          "response": ["ok!"]
+          
+        },
+        {
+            
+          "tag": "self",
+          "patterns": ["yourself","introduce","who","are","you","intro","your","spec","specifications"],
+          "response": ["i am voice controlled car created by mechatronics student"]
+          
+        },
+        {
+            
+          "tag": "time",
+          "patterns": ["time","day","year","month","date"],
+          "response": ["hmm!"]
+          
+        },
+        {
+            
+          "tag": "moto",
+          "patterns": ["go forward","go back","go left","go right","long left ","long right","reverse left","reverse right"],
+          "response": ["i going as per your voice command"]
+          
+        }
+        
+
+
+    ]
+}    
+          
+          
